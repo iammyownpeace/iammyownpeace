@@ -1,16 +1,23 @@
-## Hi there 👋
+👨‍💻 Gabriel Onhibeni Trotti
 
-<!--
-**iammyownpeace/iammyownpeace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante | 💻 Técnico em Informática em formação | 🌎 Americana - SP
 
-Here are some ideas to get you started:
+🚀 Sobre mim
+👋 Olá! Meu nome é Gabriel Onhibeni Trotti
+🎂 Tenho 16 anos
+📍 Moro em Americana (SP)
+🏫 Estudo na Escola Heitor Penteado
+💡 Em formação na área de Tecnologia da Informação
+🎯 Objetivos
+🔧 Atuar como técnico em informática
+🖥️ Trabalhar com manutenção e suporte técnico
+📈 Evoluir constantemente na área de tecnologia
+🛠️ Habilidades
+💻 Conhecimentos básicos em informática
+⚙️ Interesse em tecnologia e soluções digitais
+📚 Facilidade em aprender novas ferramentas
+🌐 Idiomas
+Inglês intermediário (em curso)
+📂 Portfólio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Este repositório reúne meus projetos e atividades, mostrando minha evolução e aprendizado na área de tecnologia.

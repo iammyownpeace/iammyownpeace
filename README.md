@@ -1,11 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Gabriel+Trotti;)](https://git.io/typing-svg)
 
-👨‍💻 Gabriel Onhibeni Trotti
-
 🎓 Estudante | 💻 Técnico em Informática em formação | 🌎 Americana - SP
 
 🚀 Sobre mim
-👋 Olá! Meu nome é Gabriel Onhibeni Trotti
 🎂 Tenho 16 anos
 📍 Moro em Americana (SP)
 🏫 Estudo na Escola Heitor Penteado

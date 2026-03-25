@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=my+name+is+gabriel+trotti;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Gabriel+Trotti;)](https://git.io/typing-svg)
 
 👨‍💻 Gabriel Onhibeni Trotti
 

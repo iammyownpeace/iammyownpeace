@@ -1,16 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Gabriel+Trotti;)](https://git.io/typing-svg)
 
-🎓  Estudante | 💻 Técnico em Informática em formação | 🌎 Americana - SP
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-🚀 Sobre mim
-🎂 Tenho 17 anos
-📍 Moro em Americana (SP)
-🏫 Estudo na Escola Heitor Penteado
-💡 Em formação na área de Tecnologia da Informação
-🔧 Atuar como técnico em informática
-💻 Conhecimentos básicos em informática
-⚙️ Interesse em tecnologia e soluções digitais
-🌐 Idiomas
-Inglês intermediário (em curso)
-## Minhas skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,cs,linux,figma)](https://skillicons.dev)
+<p align="left"> 
+🌐 Cursando Inglês
+</p>
+
+
+
+[![Minha skills](https://skillicons.dev/icons?i=html,css,cs,figma)](https://skillicons.dev)
